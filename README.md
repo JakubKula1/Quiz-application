@@ -1,2 +1,1 @@
-# Quiz-application
-Quiz application using MERN Stack
+# Quiz application using MERN Stack
